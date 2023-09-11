@@ -10,7 +10,7 @@ ifstream boczx("input.txt");
 {
 a = x + y;
  return (a);
-    }
+  }
 }
 main ()
 {
