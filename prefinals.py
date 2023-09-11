@@ -15,8 +15,8 @@ a = x + y;
 main ()
 {
  int x,y;
-     ifstream boczx("input.txt");
-     while(boczx>>x>>y)
+   ifstream boczx("input.txt");
+   while(boczx>>x>>y)
 {
  int sum = x+y;
  cout <<sum<<endl;
