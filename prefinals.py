@@ -22,5 +22,5 @@ main ()
  cout <<sum<<endl;
  }
                             
-	system("pause");
+system("pause");
 }
