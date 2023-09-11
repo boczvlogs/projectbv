@@ -21,6 +21,6 @@ main ()
  int sum = x+y;
  cout <<sum<<endl;
  }
-                            
+
 system("pause");
 }
