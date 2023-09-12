@@ -12,7 +12,7 @@ a = x + y;
  return (a);
   }
 }
-main ()
+ main ()
 {
  int x,y;
    ifstream boczx("input.txt");
