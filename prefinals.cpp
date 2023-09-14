@@ -3,7 +3,7 @@
 using namespace std;
 
 
-  int addition (int x, int y)
+ int addition (int x, int y)
 {
  int a;
 ifstream boczx("input.txt");
