@@ -6,7 +6,7 @@ using namespace std;
  int addition (int x, int y)
 {
  int a;
-ifstream boczx("input.txt");
+ ifstream boczx("input.txt");
  while(boczx>>x>>y)
 {
 a = x + y;
