@@ -22,7 +22,6 @@ a = x + y;
   cout <<sum<<endl;
  }
 
- 
- 
+  
 system("pause");
 }
