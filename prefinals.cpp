@@ -9,7 +9,7 @@ using namespace std;
  while(boczx>>x>>y)
 {
 a = x + y;
- return (a);
+ return (a); 
   }
 }
  main ()
