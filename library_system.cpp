@@ -25,7 +25,7 @@ class Library {
 private:
     vector<Book> books;
 
-public:
+public: 
     // Add a book to the library 
     void addBook(const Book& book) {
         books.push_back(book);
