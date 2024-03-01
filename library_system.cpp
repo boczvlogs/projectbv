@@ -6,7 +6,7 @@ using namespace std;
 
 // Class representing a Book
 class Book {
-public:
+public: 
     string title;
     string author;
     int year;
