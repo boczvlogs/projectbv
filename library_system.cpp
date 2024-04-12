@@ -48,7 +48,7 @@ public:
 
     // Search for a book by title Front
     void searchByTitle(const string& title) {
-        bool found = false;
+        bool found = false; 
         for (const auto& book : books) {
             if (book.title == title) {
                 book.displayInfo();
