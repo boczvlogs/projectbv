@@ -37,7 +37,7 @@ public:
         if (books.empty()) {
             cout << "No books in the library.\n";
             return;
-        }
+        } 
 
         cout << "Library Books:\n";
         for (const auto& book : books) {
