@@ -25,4 +25,4 @@ a = x + y;
 system("pause");
 }
 
-//Agoo MSFT Inc. V1.1
+//Agoo MSFT Inc. V1.0
