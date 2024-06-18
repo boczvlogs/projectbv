@@ -66,7 +66,7 @@ public:
 int main() {
     Library library;
 
-    // Example books
+    // Example books 
     Book book1("The Catcher in the Rye", "J.D. Salinger", 1951);
     Book book2("To Kill a Mockingbird", "Harper Lee", 1960);
 
