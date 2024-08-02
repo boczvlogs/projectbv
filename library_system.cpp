@@ -20,7 +20,6 @@ public:
     }
 };
 
-// Class representing a Library
 class Library {
 private:
     vector<Book> books;
