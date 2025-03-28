@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Class representing a Book In Agoo
+// Class representing a Book In Agoo corp.
 class Book {
 public: 
     string title;
